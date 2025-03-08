@@ -3,30 +3,10 @@ For this project I used AI to generate an HR Dataset that needed cleaning. Certa
 
 The first step in the project after getting the data uploaded to the Database was creating a staging table that could be edited without affecting the raw data. After that was to check for duplicates and if there were any delete those. In this case there were no duplicates. Next I wanted to of course keep the full name column however, stakeholders wanted the column to be split into a first and last name column as well. In order to accomplish this I used the SUBSTRING_INDEX command to accomplish this. Then created these colmumns to in the staging table. 
 
--- CREATE STAGING TABLE
-CREATE TABLE hr_staging AS
-SELECT *
-FROM hr_dataset_raw;
+Next, was to look for typos and inconsistencies within columns such as department, job title, and manager. In the department and job title columns there were many typos that needed to be corrected, but there were also a lot of employees that based on job titles were listed under the incorrect department. With the managers the data was completely off. Each department has one specfific manger, but all managers were somehow being listed as managers to multiple departments. So, I had to correct those. As you can see when looking at the code I initially was doing multiple different UPDATE statements, but then had the thought that I could probably use a CASE statement to make the process quicker.
 
--- CHECKING FOR DUPLICATES
-SELECT full_name, COUNT(department)
-FROM hr_staging
-GROUP BY department, full_name
-HAVING COUNT(*) > 1;
+Once those inconsistencies were all fixed another column the stakeholders wanted to add was an age group category. With the following groups: 18-30 year olds = Early Career, 31-50 year olds = Mid-Career, and 51+ year olds = Late Career.
 
--- CREATING FIRST AND LAST NAME COLUMNS
-SELECT
-	SUBSTRING_INDEX(full_name, ' ', 1) AS first_name,
-	SUBSTRING_INDEX(SUBSTRING_INDEX(full_name, ' ', 2),' ', -1) AS last_name
-FROM hr_staging;
+Then the final thing was to format the phone # column where there were many different formats. Stakeholders wanted all phone #'s to be in the ###-###-#### format. All phone #'s were stripped down to a 10 digit # and then 3 new columns were created a Left 3 digit, Middle 3 digit, and Right 4 digit column. Then using CONCAT combined them all back together and deleted the 3 created columns as they were no longer needed. 
 
-ALTER TABLE hr_staging
-ADD COLUMN first_name varchar(255),
-ADD COLUMN last_name varchar(255);
-
-UPDATE hr_staging
-SET first_name = SUBSTRING_INDEX(full_name, ' ', 1),
-	last_name = SUBSTRING_INDEX(SUBSTRING_INDEX(full_name, ' ', 2),' ', -1);
-    
-SELECT full_name, first_name, last_name
-FROM hr_staging;
+That completed the data cleaning portion. With that being done it was time to start running some analysis queries. For these I looked at some metrics such as MIN, MAX, AVG of salries and ages. Looked at these from an overall standpoint, but also from a gender and age group POV as well. On top of that I looked at # of direct reports for each manager, calculated next year salaries by department, and generated company emails. All this and a couple other metrics were looked at. Check out the scripts in the scripts folder to see the code used in the project!
