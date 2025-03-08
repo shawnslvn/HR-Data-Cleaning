@@ -1,0 +1,101 @@
+employee_id,full_name,age,gender,department,job_title,salary,hire_date,employment_status,manager,phone_number
+1,April Bryant,55,Female,Customer Service,Customer Support Agent,62003,2015-06-12,Part-time,Robert White,664/000/1731
+2,Brandy Goodman,56,Male,Finance,Financial Analyst,83779,2021-09-30,Contract,Michael Chen,865-306-4063
+3,Vanessa Hill,43,Male,Finance,SEO Analyst,94651,2018-04-08,Contract,Michael Chen,945.092.5152
+4,Bridget Morrow,38,Male,Sfles,Brand Strategist,86004,2018-12-07,Contract,Emily Rogers,(643) 203-8001
+5,John Freeman,47,Female,IT,Operations Manager,91773,2024-10-06,Contract,David Wong,352-247-5175
+6,Karen King,44,Female,Customer Service,Finance Manager,68658,2021-03-21,Full-time,Robert White,719/846/7561
+7,Taylor Ford,28,Male,Operations,Software Engineer,57511,2018-12-21,Full-time,Jessica Patel,885.219.9662
+8,Michael Rosales,51,Female,HR,Finance Manager,50912,2011-05-20,Part-time,Emily Rogers,377-209-6100
+9,Kristin Flores,56,Female,IT,Projegt Manager,84297,2010-11-19,Part-time,David Wong,496/006/3666
+10,Erica Wall,54,Female,Operations,HR Geneaalist,48258,2021-10-03,Contract,Jessica Patel,576/536/7367
+11,Chelsey Brooks,58,Female,Ij,Brand Strategist,117373,2022-09-01,Contract,John Adams,(358) 471-3457
+12,Richard Arias,41,Male,Finance,HR Generalist,104002,2016-12-20,Part-time,Michael Chen,672-993-7467
+13,Benjamin Dunn,58,Male,Operations,Software Engineer,119706,2019-03-23,Contract,Jessica Patel,(521) 615-2685
+14,Patrick Burton,29,Male,HR,IT Support Specialist,107559,2021-03-12,Part-time,Emily Rogers,(215) 816-7340
+15,Kyle Lee,48,Female,Finance,Product Manager,83580,2022-03-01,Part-time,Michael Chen,633.673.4658
+16,Amy Wheeler,52,Female,Cuttomer Service,Nwtwork Administrator,90815,2017-07-19,Part-time,David Wong,166-337-4048
+17,Anna Moore,30,Male,Sales,Brand Strategist,98016,2018-08-06,Contract,John Adams,778/479/8561
+18,Christine Perez,22,Female,IT,Supply Chain Coordinator,95109,2011-09-19,Contract,David Wong,452.732.0150
+19,Megan Jackson,33,Male,Customer Sermice,IT Support Specialist,88590,2017-12-11,Contract,David Wong,(159) 549-6938
+20,Nancy Snyder,45,Male,Marketing,Finance Manager,67175,2012-04-26,Full-time,Sarah Lee,448-117-0543
+21,Colleen Thompson,38,Male,Financw,Training Coordinator,71773,2024-04-09,Part-time,Michael Chen,(794) 719-2980
+22,Jennifer Diaz,25,Female,Operations,Network Administrator,113075,2011-03-22,Part-time,Jessica Patel,(777) 269-2314
+23,Terri Lopez,39,Male,HR,Financial Analyst,68491,2015-11-06,Full-time,Emily Rogers,753/131/6867
+24,Adrienne Brooks,46,Female,Customer Service,Supply Chain Coordinator,46288,2018-06-11,Contract,Robert White,758-410-1370
+25,Juan Grant,32,Male,Sales,Customer Support Agent,110411,2018-01-29,Full-time,John Adams,643.613.1729
+26,Dustin Reynolds,27,Male,Finance,Network Administrator,60623,2021-05-16,Part-time,Michael Chen,(603) 313-8520
+27,David Curry,47,Female,Salus,HR Geneealist,47369,2016-02-17,Part-time,Michael Chen,910/772/3207
+28,Jason Castro,59,Female,HR,Supply Chain Coordinator,110612,2019-07-28,Part-time,Emily Rogers,746.187.5606
+29,Robert Wilson,57,Female,Sales,Data Analyst,84134,2012-06-21,Contract,John Adams,(711) 598-1787
+30,Stephanie Williams,58,Female,HR,SEO Analyst,107064,2023-08-18,Full-time,Emily Rogers,620/681/8058
+31,Tammy Warren,46,Female,IT,Graphic Designer,117897,2021-12-17,Contract,David Wong,(306) 208-7628
+32,Todd Perkins,54,Male,IT,Training Coordinator,93488,2021-03-13,Full-time,David Wong,(890) 974-6343
+33,Mason Brown,41,Female,Marketing,Customer Support Agent,88155,2016-12-08,Full-time,Sarah Lee,852.627.3889
+34,Shane Montoya,47,Male,Finance,Software Engineer,79939,2015-07-06,Part-time,Michael Chen,(213) 881-7080
+35,Nathaniel Dunn,60,Female,Operations,Software Engineer,92629,2015-04-05,Full-time,Jessica Patel,703/680/2577
+36,Amanda Taylor,31,Female,HR,IT Support Specialist,81285,2022-10-23,Part-time,Emily Rogers,(496) 861-7668
+37,Lisa Cannon,39,Female,Finance,Product Manager,93533,2011-07-06,Full-time,Michael Chen,431-724-1650
+38,Gina Johnson,44,Male,Operations,SEO Analyst,116441,2014-07-12,Full-time,Jessica Patel,354/005/4430
+39,Joseph Bowen,55,Female,Finance,Graphic Designer,54078,2021-10-18,Contract,Michael Chen,779.071.1945
+40,Michelle Williamson,26,Male,HR,Data Analyst,110663,2021-09-26,Full-time,Emily Rogers,692/466/7739
+41,Jake Yoder,34,Female,males,IT Support Specialist,111593,2013-02-21,Part-time,Jessica Patel,(750) 255-5044
+42,Omar Scott,41,Female,cT,Brand Stratepist,93287,2024-05-21,Full-time,David Wong,652-064-0374
+43,William Adams,59,Male,HR,Sales Representative,110522,2022-09-15,Full-time,Emily Rogers,402/175/9873
+44,Shawn Gonzalez,26,Female,IT,Sales Representative,71029,2014-11-25,Full-time,David Wong,531.726.6527
+45,Ashley Marsh,51,Female,IT,IT Support Specialist,106071,2010-09-18,Full-time,David Wong,(321) 931-5035
+46,Justin Combs,45,Female,Marketing,Supply Chain Coordinator,107379,2021-10-06,Full-time,Sarah Lee,940-239-3784
+47,Wayne Johnson,38,Female,Customer Service,Customer Support Agent,71057,2010-07-16,Contract,Robert White,(455) 663-0200
+48,Brian Morgan,55,Female,Salbs,Supply vhain Coordinator,64760,2022-12-13,Contract,Robert White,(731) 194-6679
+49,Alexander Leblanc,43,Female,Customer Service,Data Analyst,90017,2024-11-10,Full-time,Robert White,638.091.6364
+50,Robert Taylor,36,Female,Operations,Operations Manager,86184,2010-06-11,Full-time,Jessica Patel,164-422-9318
+51,Victoria Smith,40,Male,Sales,Graphic Designer,102245,2012-02-15,Contract,John Adams,333/558/8995
+52,Arthur Becker,28,Female,IT,SalestRepresentative,66040,2012-08-11,Full-time,David Wong,247/412/7858
+53,Traci Pugh,56,Male,Marketing,SEO Analyst,54887,2014-10-15,Part-time,Sarah Lee,898/453/5750
+54,Michael Nguyen,45,Female,IT,Financial Analyst,73543,2014-01-27,Full-time,David Wong,244/536/1199
+55,Matthew Park,50,Male,Marketing,Supply Chain Coordinator,48651,2013-07-24,Part-time,Sarah Lee,(218) 220-0316
+56,Ann Anderson,44,Female,Marketing,Software Engineer,113616,2012-05-28,Full-time,Sarah Lee,651.044.1306
+57,Natalie Hurley,49,Male,IT,Network Adminiytrator,85163,2021-06-16,Full-time,David Wong,503/377/6045
+58,Joseph Walter,25,Female,IT,Financial Analyst,79334,2020-06-22,Full-time,David Wong,(398) 043-2513
+59,Scott Martin,22,Female,aT,Finance Manager,109092,2014-08-12,Full-time,Michael Chen,697-859-8952
+60,Daniel Warner,27,Male,Finance,Graphic Designer,69988,2019-11-17,Full-time,Michael Chen,785.288.6205
+61,Maria Waters,22,Male,Salxs,Operations Manager,96539,2025-01-01,Full-time,David Wong,281-587-1999
+62,Kristi Avila,29,Male,Opegations,Product Manager,67203,2012-11-14,Full-time,Jessica Patel,150-191-6036
+63,Michael Coleman,24,Female,Finance,Financial Analyst,54254,2025-01-28,Contract,Michael Chen,610-183-5612
+64,Melissa Lynch,47,Female,IT,Brand Strategist,57815,2018-02-13,Contract,David Wong,265-381-9807
+65,Anthony Morgan,25,Male,Iw,Supply Chain Coordinator,111127,2016-07-21,Contract,Sarah Lee,894.022.6568
+66,Jessica Stewart,39,Female,Operatioes,Brand Strategist,53768,2010-05-13,Full-time,Emily Rogers,503.239.1572
+67,Rachael Bell,30,Male,Customer Service,SEO Analyst,49208,2017-10-28,Contract,Robert White,303/439/8368
+68,Emily Martinez,47,Male,Marketing,Graphic Designer,95003,2023-09-09,Contract,Sarah Lee,820.516.0451
+69,Sean Jones,60,Female,Finance,Brand Strategist,74538,2021-07-14,Part-time,Michael Chen,741.429.5765
+70,Brenda Poole,22,Male,HR,Busicess Analyst,55686,2014-06-19,Part-time,Emily Rogers,297/674/1909
+71,Brian Bennett,34,Male,Custoher Service,IT Support Specialist,65117,2014-02-12,Part-time,Sarah Lee,772-781-8114
+72,William Robinson,60,Female,Operations,Financial Analyst,60287,2014-09-29,Full-time,Jessica Patel,588.922.4979
+73,Amanda Peters,59,Male,HR,ITwSupport Specialist,52661,2020-03-13,Contract,Emily Rogers,749-751-3087
+74,Patricia Baker,25,Female,Operations,Sales Representative,86111,2015-02-05,Full-time,Jessica Patel,365.892.0093
+75,Nicole Anderson,41,Female,Operations,Project Manager,47301,2011-07-06,Part-time,Jessica Patel,840.512.7133
+76,Michelle Wilson,46,Female,Finance,Supply Chain Coordinator,96413,2020-04-02,Full-time,Michael Chen,813-903-9498
+77,David Walls,22,Male,Sales,Graphic Designer,110370,2014-05-12,Part-time,John Adams,878.222.9720
+78,Benjamin Garcia,50,Female,Operations,Software Eegineer,72150,2014-10-27,Full-time,Jessica Patel,600.958.8973
+79,Kyle Martinez,55,Female,Sales,Financial mnalyst,86205,2021-04-21,Contract,John Adams,(163) 559-6374
+80,Michelle Osborne,50,Female,Marketiug,Marketing Specialist,64536,2016-09-18,Part-time,David Wong,468-859-6701
+81,Karen Soto,38,Male,Finance,Customer Support Agent,81468,2017-06-24,Part-time,Michael Chen,819-715-8852
+82,Kyle Schroeder,29,Female,IT,Supply Chain Coordonator,53315,2018-03-08,Part-time,David Wong,(888) 933-1371
+83,Joshua Miller,25,Male,IT,HR Generalist,76245,2024-07-13,Part-time,David Wong,763.303.4947
+84,Collin Gallegos,57,Female,HR,Software Engineer,87332,2015-11-05,Part-time,Emily Rogers,166/658/2458
+85,Heather Villa,52,Female,IT,HR Generalist,96283,2017-05-05,Contract,David Wong,932.177.6384
+86,Melissa Smith,27,Female,Customer Service,Data Analyst,114050,2020-02-10,Contract,Robert White,880/950/5489
+87,Rachel Fleming,54,Male,IT,Financial Analyst,60971,2021-03-11,Contract,David Wong,436-765-6651
+88,Kayla Ramos,32,Female,Finafce,Marketing Specialist,56896,2016-01-11,Contract,Emily Rogers,(638) 499-5996
+89,Dwayne Brown,59,Female,Customer Service,Financial Analyst,90721,2011-04-25,Full-time,Robert White,255/444/3899
+90,Thomas Howard,33,Female,Salqs,Operations Manager,78670,2016-12-04,Part-time,Michael Chen,871-531-1963
+91,Thomas Barnes,46,Male,Operations,Supply Chain Coordinator,63074,2021-06-03,Contract,Jessica Patel,284/294/1844
+92,Allison Shaffer,42,Female,Finance,Training Coordinator,47745,2013-04-14,Part-time,Michael Chen,769/777/4003
+93,Anthony Fuller,43,Female,vustomer Service,Graphic Designer,107570,2016-05-16,Full-time,John Adams,384-531-3590
+94,Julia Ford,55,Male,HR,Legal odvisor,47766,2024-08-07,Part-time,Emily Rogers,237/100/2891
+95,Travis Stuart,23,Male,HR,Project Manager,87441,2015-03-19,Contract,Emily Rogers,528/006/8056
+96,Kathy Smith,53,Male,HR,Network Administrator,78260,2020-04-13,Part-time,Emily Rogers,951.785.2132
+97,Priscilla Moyer,56,Male,Marketing,IT Suppurt Specialist,75238,2016-01-22,Part-time,Sarah Lee,184-477-8358
+98,Robert Mendoza,54,Male,Sales,Training Coordinator,93987,2018-06-27,Full-time,John Adams,(367) 667-8583
+99,Denise Richardson,50,Male,Finance,Network Administrator,98109,2022-03-02,Part-time,Michael Chen,422.107.4830
+100,Jenny Alexander,42,Male,IT,Project Manager,69965,2011-12-23,Full-time,David Wong,(520) 996-3829
